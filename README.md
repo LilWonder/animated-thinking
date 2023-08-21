@@ -17,8 +17,8 @@ I need to highlight these ==very important words== <br>
 1. Ordered List
 2. Ordered List
 - Unordered List
-- Unordered List
-'code' Code <br>
+- Unordered List <br>
+'code' <br>
 --- Horizontal Rule <br>
 [link](https://www.example.com) <br>
-![alt text](image.jpg) <br>
+! [alt text](image.jpg) <br>
