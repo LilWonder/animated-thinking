@@ -21,4 +21,4 @@ I need to highlight these ==very important words== <br>
 `code` <br>
 --- Horizontal Rule <br>
 [link](https://www.example.com) <br>
-[alt text](image.jpg) <br>
+![alt text](image.jpg) <br>
