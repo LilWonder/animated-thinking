@@ -8,17 +8,17 @@
 # H1
 ## H2
 ### H3
-**bold text**
-*italicized text*
-H~2~O
-X^2^
-I need to highlight these ==very important words==
-> blockquote
+**bold text**<br>
+*italicized text*<br>
+H~2~O<br>
+X^2^<br>
+I need to highlight these ==very important words==<br>
+> blockquote<br>
 1. Ordered List
 2. Ordered List
 - Unordered List
 - Unordered List
-`code` Code
----Horizontal Rule
-[link](https://www.example.com)
-![alt text](image.jpg)
+`code` Code<br>
+---Horizontal Rule<br>
+[link](https://www.example.com)<br>
+![alt text](image.jpg)<br>
